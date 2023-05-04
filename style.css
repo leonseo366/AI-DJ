@@ -1,0 +1,33 @@
+.header
+{
+    font-size: 20px;
+    margin: 0px;
+    width: 100%;
+}
+.NOTA
+{
+    font-size: 20px;
+    color: rgb(53, 55, 59);
+}
+body
+{
+    background-size: cover;
+}
+.vel
+{
+    float: left;
+}
+.imv
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#tvl, #imvol
+{
+    font-size: 30px;
+    margin: 15px;
+}
+.vol
+{
+    float:right;
+}
